@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MF0 version="1.1" packageUris="http://schema.mathworks.com/mf0/faultinfo_datamodel/R2021a">
+  <faultinfo.FaultContainerSet type="faultinfo.FaultContainerSet" uuid="98a07f3b-1ead-4540-843c-a12fbb4dc34e">
+    <conditionals type="faultinfo.conditional.Conditional" uuid="d58236aa-8ebb-4515-be2f-de5aeea8103c">
+      <condition>x == true</condition>
+      <mustBeLogged>false</mustBeLogged>
+      <name>SampleConditional</name>
+      <resyncRefBlkID></resyncRefBlkID>
+      <resyncUUID>00000000-0000-0000-0000-000000000000</resyncUUID>
+      <symbols type="faultinfo.conditional.ExpressionSymbol" uuid="f0e732b3-60ca-43ef-a096-2fe22ac31453">
+        <expression>true</expression>
+        <name>x</name>
+      </symbols>
+    </conditionals>
+    <isEnabled>false</isEnabled>
+    <lastUpdatedAt>2024-04-13T00:05:45</lastUpdatedAt>
+    <modelName>parrotMinidroneCompetition</modelName>
+    <modelUUID>1638e32d-c22e-47b8-82f9-dcbccbc78966</modelUUID>
+  </faultinfo.FaultContainerSet>
+</MF0>
