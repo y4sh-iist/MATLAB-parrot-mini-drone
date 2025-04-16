@@ -3,8 +3,8 @@ This MATLAB code was written by me and my colleagues for the MATLAB minidrone co
 
 
 Contributors:
-Vineesh.K.Vinod
-Kanisha Meheta
-Neelavbra Chakrabarty
-Sandra Karthika
+Vineesh.K.Vinod,
+Kanisha Meheta,
+Neelavbra Chakrabarty,
+Sandra Karthika,
 Shreya Jhawar
